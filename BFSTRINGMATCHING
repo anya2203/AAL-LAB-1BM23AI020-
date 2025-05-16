@@ -27,8 +27,9 @@ int main() {
 }
 
 **INPUT**
-Enter the text: This is a simple example.
-Enter the pattern to search: simple
+Enter the text: THE PATTERN IS SIMPLE
+Enter the pattern to search: SIMPLE
+
 
 **OUTPUT**
-Pattern found at index 10
+Pattern found at index 15
