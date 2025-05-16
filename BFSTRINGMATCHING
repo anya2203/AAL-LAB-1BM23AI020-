@@ -25,3 +25,10 @@ int main() {
 
     return 0;
 }
+
+**INPUT**
+Enter the text: This is a simple example.
+Enter the pattern to search: simple
+
+**OUTPUT**
+Pattern found at index 10
