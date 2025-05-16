@@ -35,3 +35,5 @@ int main() {
         printf("%d ", arr[i]);
     return 0;
 }
+**OUTPUT**
+Sorted array: 11 12 12 20 22 25 34 64 77
