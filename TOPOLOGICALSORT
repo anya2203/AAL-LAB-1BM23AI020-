@@ -45,3 +45,7 @@ int main() {
     topologicalSort(graph);
     return 0;
 }
+
+**OUTPUT**
+Topological Sort: 0 1 2 3 4 5 
+
